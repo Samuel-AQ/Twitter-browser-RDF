@@ -8,6 +8,7 @@ Next, a credentials file must be uploaded to the application containing the foll
 * Consumer secret
 * Access token
 * Access token secret  
+
 In order to obtain this tokens the user needs to create a Twitter developer account, otherwise it is impossible to run the application properly.  
 Finally select the output format (Turtle or XML) and click "save" to see the output in the text area and save it.
 ## References
