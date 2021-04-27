@@ -1,0 +1,27 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex: <http://www.example.org/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# Classes
+ex:tweet rdf:type rdfs:Class .
+ex:tweet dcterms:date ""^^dcterms:W3CDTF .
+
+# Subclasses
+ex:answer rdfs:subClassOf ex:tweet .
+
+# Properties
+ex:user 
+    rdf:type rdfs:Property ;
+    rdfs:domain ex:tweet .
+
+ex:language 
+    rdf:type rdfs:Property ;
+    rdfs:domain ex:tweet .
+
+ex:topic 
+    rdf:type rdfs:Property ;
+    rdfs:domain ex:tweet .
+

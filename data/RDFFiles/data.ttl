@@ -1,0 +1,199 @@
+@prefix ex:    <http://example.org/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2001/vcard-rdf/3.0#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://www.example.org/user#1091391784377290752>
+        dc:creator      "BintyDinty|BLM!" ;
+        vcard:Locality  "" .
+
+<http://www.example.org/hashtag#kofxv>
+        skos:altLabel  "kofxv" .
+
+<http://www.example.org/user#1342403200805027840>
+        dc:creator      "Charliezimmer" ;
+        vcard:Locality  "" .
+
+<http://www.example.org/hashtag#sfv>
+        skos:altLabel  "sfv" .
+
+<http://www.example.org/tweet#1377262610127671297>
+        dc:contributor  "user#3307961657" ;
+        dc:date         "Wed Mar 31 15:12:49 BST 2021" ;
+        dc:description  "RT @2Dee4ever: New portraits, had to show em off!  #SF3 #Capcom #SNK #StreetFighter #KOF #FGC #FANART #gamedev  https://t.co/i5C3GMAmBV htt…" ;
+        dc:language     "language#en" ;
+        dc:subject      "hashtag#KOF" , "hashtag#FGC" , "hashtag#SF3" , "hashtag#Capcom" , "hashtag#SNK" , "hashtag#FANART" , "hashtag#gamedev" , "hashtag#StreetFighter" .
+
+<http://www.example.org/user#1296414641489289219>
+        dc:creator      "keyy ✰" ;
+        vcard:Locality  "mood pake ava eren pacarku" .
+
+<http://www.example.org/tweet#1377262443026649092>
+        dc:contributor  "user#950329891328638976" ;
+        dc:date         "Wed Mar 31 15:12:09 BST 2021" ;
+        dc:description  "She’s so cute 🥺💕\n\n#snk #aot #Mikasa #sketchart https://t.co/8O6LUGFFmD" ;
+        dc:language     "language#en" ;
+        dc:subject      "hashtag#sketchart" , "hashtag#Mikasa" , "hashtag#aot" , "hashtag#snk" .
+
+<http://www.example.org/hashtag#terrybogard>
+        skos:altLabel  "terrybogard" .
+
+<http://www.example.org/language#und>
+        skos:altLabel   "und" ;
+        skos:prefLabel  "und" .
+
+<http://www.example.org/language#fi>
+        skos:altLabel   "fi" ;
+        skos:prefLabel  "fi" .
+
+<http://www.example.org/hashtag#AttackOnTitan>
+        skos:altLabel  "AttackOnTitan" .
+
+<http://www.example.org/hashtag#cosplay>
+        skos:altLabel  "cosplay" .
+
+<http://www.example.org/user#1227124446000889856>
+        dc:creator      "AuMiO VXC MUGEN" ;
+        vcard:Locality  "Bangladesh" .
+
+<http://www.example.org/hashtag#KOF>
+        skos:altLabel  "KOF" .
+
+<http://www.example.org/hashtag#sfiii3>
+        skos:altLabel  "sfiii3" .
+
+<http://www.example.org/hashtag#snk>
+        skos:altLabel  "snk" .
+
+<http://www.example.org/hashtag#Capcom>
+        skos:altLabel  "Capcom" .
+
+<http://www.example.org/tweet#1377262288613220356>
+        dc:contributor  "user#1185529110006681601" ;
+        dc:date         "Wed Mar 31 15:11:32 BST 2021" ;
+        dc:description  "RT @la_crospa: \"Apologies\"\n\nJeankasa againts mafia postcanon au.\n\n#jeankasa #jeankirschtein #MikasaAckerman #ShingekiNoKyojin #SNK https://…" ;
+        dc:language     "language#und" ;
+        dc:subject      "hashtag#SNK" , "hashtag#ShingekiNoKyojin" , "hashtag#MikasaAckerman" , "hashtag#jeankirschtein" , "hashtag#jeankasa" .
+
+<http://www.example.org/user#27891311>
+        dc:creator      "🎶🎤Rohan Lockhart🎤🎵" ;
+        vcard:Locality  "France" .
+
+<http://www.example.org/hashtag#actorausnk>
+        skos:altLabel  "actorausnk" .
+
+<http://www.example.org/hashtag#SF3>
+        skos:altLabel  "SF3" .
+
+<http://www.example.org/hashtag#FANART>
+        skos:altLabel  "FANART" .
+
+<http://www.example.org/tweet#1377262543412989962>
+        dc:contributor  "user#1296414641489289219" ;
+        dc:date         "Wed Mar 31 15:12:33 BST 2021" ;
+        dc:description  "RT @92nine009: Selfie!\n#SNK #AttackOnTitan #actorausnk https://t.co/0LNO3KGAl1" ;
+        dc:language     "language#en" ;
+        dc:subject      "hashtag#actorausnk" , "hashtag#AttackOnTitan" , "hashtag#SNK" .
+
+<http://www.example.org/tweet#1377262564850077696>
+        dc:contributor  "user#1227124446000889856" ;
+        dc:date         "Wed Mar 31 15:12:38 BST 2021" ;
+        dc:description  "[GOAT Match] Ken Masters VS Terry Bogard [SFIII3][KOFXV][SFV][SmashBros]... https://t.co/MoxLnPO4dU via @YouTube \n#mugen #terrybogard #kenmasters #snk #SmashBrosUltimate #kofxv #sfv #sfiii3 @SNKPofficial @CapcomUSA_ @maximilian_ @TerryBogard7_ @TerryBogard0821 @kenmastersX @KenMa" ;
+        dc:language     "language#fi" ;
+        dc:subject      "hashtag#SmashBrosUltimate" , "hashtag#terrybogard" , "hashtag#snk" , "hashtag#sfv" , "hashtag#sfiii3" , "hashtag#kofxv" , "hashtag#kenmasters" , "hashtag#mugen" .
+
+<http://www.example.org/tweet#1377262038360207366>
+        dc:contributor  "user#1320710531162976257" ;
+        dc:date         "Wed Mar 31 15:10:32 BST 2021" ;
+        dc:description  "RT @lavlienlane: In honor of the release of the new series\n\nLevi by me\nHanji by Maria\n———————————————————\n#levi #cosplay #AttackOnTitan #sh…" ;
+        dc:language     "language#en" ;
+        dc:subject      "hashtag#AttackOnTitan" , "hashtag#cosplay" , "hashtag#levi" .
+
+<http://www.example.org/hashtag#mugen>
+        skos:altLabel  "mugen" .
+
+<http://www.example.org/hashtag#jeankirschtein>
+        skos:altLabel  "jeankirschtein" .
+
+<http://www.example.org/hashtag#kenmasters>
+        skos:altLabel  "kenmasters" .
+
+<http://www.example.org/user#950329891328638976>
+        dc:creator      "Ynanee" ;
+        vcard:Locality  "19, she/her" .
+
+<http://www.example.org/hashtag#SNK>
+        skos:altLabel  "SNK" .
+
+<http://www.example.org/tweet#1377262820010643465>
+        dc:contributor  "user#27891311" ;
+        dc:date         "Wed Mar 31 15:13:39 BST 2021" ;
+        dc:description  "🏆 Oscar du meilleur acteur à Reiner & Berthold dans la S1 de #snk quand même 😂 https://t.co/TRYMI2f5wu" ;
+        dc:language     "language#fr" ;
+        dc:subject      "hashtag#snk" .
+
+<http://www.example.org/hashtag#FGC>
+        skos:altLabel  "FGC" .
+
+<http://www.example.org/hashtag#sketchart>
+        skos:altLabel  "sketchart" .
+
+<http://www.example.org/language#fr>
+        skos:altLabel   "French" ;
+        skos:prefLabel  "fr" .
+
+<http://www.example.org/user#3307961657>
+        dc:creator      "Wang Jin Rei" ;
+        vcard:Locality  "SHITland of smog" .
+
+<http://www.example.org/hashtag#MikasaAckerman>
+        skos:altLabel  "MikasaAckerman" .
+
+<http://www.example.org/user#1185529110006681601>
+        dc:creator      "N." ;
+        vcard:Locality  "home." .
+
+<http://www.example.org/hashtag#jeankasa>
+        skos:altLabel  "jeankasa" .
+
+<http://www.example.org/hashtag#gamedev>
+        skos:altLabel  "gamedev" .
+
+<http://www.example.org/tweet#1377262565227659268>
+        dc:contributor  "user#1091391784377290752" ;
+        dc:date         "Wed Mar 31 15:12:38 BST 2021" ;
+        dc:description  "RT @2Dee4ever: New portraits, had to show em off!  #SF3 #Capcom #SNK #StreetFighter #KOF #FGC #FANART #gamedev  https://t.co/i5C3GMAmBV htt…" ;
+        dc:language     "language#en" ;
+        dc:subject      "hashtag#Capcom" , "hashtag#SF3" , "hashtag#KOF" , "hashtag#FGC" , "hashtag#StreetFighter" , "hashtag#SNK" , "hashtag#FANART" , "hashtag#gamedev" .
+
+<http://www.example.org/language#en>
+        skos:altLabel   "English" ;
+        skos:prefLabel  "en" .
+
+<http://www.example.org/hashtag#levi>
+        skos:altLabel  "levi" .
+
+<http://www.example.org/hashtag#StreetFighter>
+        skos:altLabel  "StreetFighter" .
+
+<http://www.example.org/hashtag#ShingekiNoKyojin>
+        skos:altLabel  "ShingekiNoKyojin" .
+
+<http://www.example.org/tweet#1377262379264667650>
+        dc:contributor  "user#1342403200805027840" ;
+        dc:date         "Wed Mar 31 15:11:54 BST 2021" ;
+        dc:description  "RT @hunnymzdraws: Happy birthday Ereh 🎂\nI made 4 pages of Ereh dream. I wanted to make it long  but I'm terrible on doing comic 🙏😅 sorry \n#…" ;
+        dc:language     "language#en" .
+
+<http://www.example.org/user#1320710531162976257>
+        dc:creator      "flochlover69 🌿 @mental breakdown Arc." ;
+        vcard:Locality  "" .
+
+<http://www.example.org/hashtag#aot>
+        skos:altLabel  "aot" .
+
+<http://www.example.org/hashtag#SmashBrosUltimate>
+        skos:altLabel  "SmashBrosUltimate" .
+
+<http://www.example.org/hashtag#Mikasa>
+        skos:altLabel  "Mikasa" .

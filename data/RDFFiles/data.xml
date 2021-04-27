@@ -1,0 +1,148 @@
+<rdf:RDF
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ex="http://example.org/"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+  <rdf:Description rdf:about="http://www.example.org/user#21823527">
+    <vcard:Locality></vcard:Locality>
+    <dc:creator>Teniente Telodamus</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/hashtag#PS5">
+    <skos:altLabel>PS5</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186270707781633">
+    <dc:description>RT @WatchChad: Does anyone else find it odd that the 4 year old child we have to shield from Dr Seuss and Pepe Le Pew so their mind isn’t w…</dc:description>
+    <dc:date>Wed Mar 31 10:09:28 BST 2021</dc:date>
+    <dc:language>language#en</dc:language>
+    <dc:contributor>user#1260892915565572098</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186072963149828">
+    <dc:description>RT @cnnradioarg: EN EL AIRE | Comienza #CafeConPepe el programa de Pepe Gil Vidal.
+
+Escuchá las primeras noticias del día hasta las 10hs.…</dc:description>
+    <dc:date>Wed Mar 31 10:08:41 BST 2021</dc:date>
+    <dc:subject>hashtag#CafeConPepe</dc:subject>
+    <dc:language>language#es</dc:language>
+    <dc:contributor>user#21823527</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#ja">
+    <skos:altLabel>Japanese</skos:altLabel>
+    <skos:prefLabel>ja</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#761840776464609280">
+    <vcard:Locality>MaRs</vcard:Locality>
+    <dc:creator>Pop_Pie</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186253213339652">
+    <dc:source>1377182618450419719</dc:source>
+    <dc:description>@pepe_fajula @Abraxas1714 I el milió de votants de les europees on caram són????? És increïble que la gent no ho entengui.</dc:description>
+    <dc:date>Wed Mar 31 10:09:24 BST 2021</dc:date>
+    <dc:language>language#ca</dc:language>
+    <dc:contributor>user#1221434397703974913</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#3646356672">
+    <vcard:Locality>Bugliano </vcard:Locality>
+    <dc:creator>𝕆𝕤𝕔𝕒𝕣 𝔻𝕒𝕓𝕓𝕒𝕘𝕟𝕠</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186146237616130">
+    <dc:description>RT @JulienChieze: 🎁CONCOURS🎁
+Vous galérez avec la touche F5 et les stocks Next Gen ? Pour vous aider, je mets en jeu une #PS5 🔥
+
+Pour parti…</dc:description>
+    <dc:date>Wed Mar 31 10:08:58 BST 2021</dc:date>
+    <dc:subject>hashtag#PS5</dc:subject>
+    <dc:language>language#fr</dc:language>
+    <dc:contributor>user#1165703121995255809</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1375792454100643842">
+    <vcard:Locality></vcard:Locality>
+    <dc:creator>.𝒇𝒂𝒕𝒆</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#ca">
+    <skos:altLabel>ca</skos:altLabel>
+    <skos:prefLabel>ca</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186152994594819">
+    <dc:description>RT @TiuqueC: Vengo del futuro.
+ 
+Pepe Auth, Matías Walker, Manuel Antonio Matta, Jorge Sabag , Miguel Angel Calisto,  René Alinco Carlos Ab…</dc:description>
+    <dc:date>Wed Mar 31 10:09:00 BST 2021</dc:date>
+    <dc:language>language#es</dc:language>
+    <dc:contributor>user#1082787454342582274</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186265452273671">
+    <dc:description>RT @naatupurathan: ஊர் ஊருக்கு எலிமென்ட்ரி ஸ்கூல், மிடில் ஸ்கூல், ஹைஸ்கூல், ஹையர்செகண்ட்ரி ஸ்கூல், ஆர்ட்ஸ் காலேஜ், என்ஜினியரிங் காலேஜ், மெ…</dc:description>
+    <dc:date>Wed Mar 31 10:09:27 BST 2021</dc:date>
+    <dc:language>language#ta</dc:language>
+    <dc:contributor>user#761840776464609280</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186090893725696">
+    <dc:source>1377185729541902340</dc:source>
+    <dc:description>@Song_ak__ 음... 3명정도 있습니다! 남동생 두명과 여동생 한명이요~</dc:description>
+    <dc:date>Wed Mar 31 10:08:45 BST 2021</dc:date>
+    <dc:language>language#ko</dc:language>
+    <dc:contributor>user#1375792454100643842</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1082787454342582274">
+    <vcard:Locality>Chile</vcard:Locality>
+    <dc:creator>omara Apruebo CC independientes.</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#ko">
+    <skos:altLabel>ko</skos:altLabel>
+    <skos:prefLabel>ko</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1221434397703974913">
+    <vcard:Locality></vcard:Locality>
+    <dc:creator>Maria Dolors Clot🎗</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#es">
+    <skos:altLabel>Spanish</skos:altLabel>
+    <skos:prefLabel>es</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186147323977728">
+    <dc:source>1377152307171758081</dc:source>
+    <dc:description>@VoceGiallorossa @OfficialASRoma Ma noooo. Non valorizza i giovani. Fa er tiki taka cacio bene pepe. Lassamo perde</dc:description>
+    <dc:date>Wed Mar 31 10:08:59 BST 2021</dc:date>
+    <dc:language>language#it</dc:language>
+    <dc:contributor>user#3646356672</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1260892915565572098">
+    <vcard:Locality></vcard:Locality>
+    <dc:creator>Syrenka 🙏🇺🇸🚀🗽❤✌🐸☦️🏇</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1249876158977466368">
+    <vcard:Locality>ばぶうをばぶうにしてばぶうにしたところ</vcard:Locality>
+    <dc:creator>早瀬ちょまろ</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/user#1165703121995255809">
+    <vcard:Locality></vcard:Locality>
+    <dc:creator>Pepe del Cielo</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/tweet#1377186138671046662">
+    <dc:source>1377185966914297858</dc:source>
+    <dc:description>@Hieira_Fureia 全然大丈夫でした！！！！最高でした😭😭😭😭😭😭😭</dc:description>
+    <dc:date>Wed Mar 31 10:08:56 BST 2021</dc:date>
+    <dc:language>language#ja</dc:language>
+    <dc:contributor>user#1249876158977466368</dc:contributor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#en">
+    <skos:altLabel>English</skos:altLabel>
+    <skos:prefLabel>en</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#it">
+    <skos:altLabel>Italian</skos:altLabel>
+    <skos:prefLabel>it</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#ta">
+    <skos:altLabel>ta</skos:altLabel>
+    <skos:prefLabel>ta</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/hashtag#CafeConPepe">
+    <skos:altLabel>CafeConPepe</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/language#fr">
+    <skos:altLabel>French</skos:altLabel>
+    <skos:prefLabel>fr</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>
